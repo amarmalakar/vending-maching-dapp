@@ -75,6 +75,7 @@ const VendingMachine = () => {
             <Head>
                 <title>Vending Machine</title>
                 <meta name="description" content="A Blockchain Vending Machine App" />
+                <link rel="icon" href="/favicon.ico" />
             </Head>
             
             <nav className="navbar p-4">
